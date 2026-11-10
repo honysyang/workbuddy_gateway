@@ -25,6 +25,12 @@
 
 ---
 
+## 0. 效果展示
+
+![开启服务](imgimage.png)
+![配置模型](imgimage.png)
+![开始对话](imgimage.png)
+
 ## 1. 特性
 
 | 能力 | 说明 |
