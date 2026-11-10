@@ -1,0 +1,2 @@
+# Python 统一使用 LF，避免在 Windows 上产生 CRLF 差异
+*.py text eol=lf
